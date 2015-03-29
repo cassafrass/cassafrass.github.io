@@ -2,9 +2,8 @@ body{
 	background-color:orange;
 	font-family: Arial;
 	text-align: center;
-	font-size: 30px;
+	font-size: 75px;
 	font-weight:normal;
-	text-transform: uppercase;
 }
 #slogan{
 	font-style: italic;
@@ -12,9 +11,10 @@ body{
 	font-family:Arial;
 }
 title{
-	font-size: 250px;
+	font-size: 500px;
 	font-family: Arial;
+	text-transform: uppercase;
 }
 hr{
-	width: 500px;
+	width: 1000px;
 }
