@@ -1,7 +1,8 @@
 body{
-	color:(255,147,13);
+	background-color:(255,147,13);
 }
 #slogan{
-	text-decoration: italic
-	
+	font-style: italic;
+	font-size: 24px;
+
 }
