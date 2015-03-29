@@ -1,8 +1,11 @@
 body{
-	background-color:(255,147,13);
+	color:(255,147,13);
+	font-family: Arial;
 }
 #slogan{
 	font-style: italic;
-	font-size: 24px;
-
+	font-size: 50px;
+}
+img{
+	background-size: 100px;
 }
