@@ -1,8 +1,13 @@
+title{
+	font-size: 500px;
+	font-family: Arial;
+	text-transform: uppercase;
+}
 body{
-	background-color:orange;
+	color:FF930D;
 	font-family: Arial;
 	text-align: center;
-	font-size: 75px;
+	font-size: 60px;
 	font-weight:normal;
 }
 #slogan{
@@ -10,11 +15,6 @@ body{
 	font-size: 100px;
 	font-family:Arial;
 }
-title{
-	font-size: 500px;
-	font-family: Arial;
-	text-transform: uppercase;
-}
 hr{
-	width: 1000px;
+	width: 2500px;
 }
