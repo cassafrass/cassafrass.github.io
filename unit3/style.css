@@ -4,7 +4,7 @@ title{
 	text-transform: uppercase;
 }
 body{
-	color:#FF930D;
+	color: #FF930D;
 	font-family: Arial;
 	text-align: center;
 	font-size: 60px;
@@ -16,5 +16,8 @@ body{
 	font-family:Arial;
 }
 hr{
-	width: 2500px;
+	width: 1750px;
+}
+img{
+	background-size: 50px;
 }
