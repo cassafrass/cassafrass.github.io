@@ -3,15 +3,18 @@ body{
 	font-family: Arial;
 	text-align: center;
 	font-size: 30px;
+	font-weight:normal;
+	text-transform: uppercase;
 }
 #slogan{
 	font-style: italic;
 	font-size: 100px;
+	font-family:Arial;
 }
 title{
-	font-size: 150px;
+	font-size: 250px;
 	font-family: Arial;
 }
 hr{
-	width: 200px;
+	width: 500px;
 }
