@@ -17,6 +17,9 @@ body{
 }
 hr{
 	width: 1750px;
+	border:none;
+	height:10px;
+	background-color:red;
 }
 img{
 	background-size: 50px;
